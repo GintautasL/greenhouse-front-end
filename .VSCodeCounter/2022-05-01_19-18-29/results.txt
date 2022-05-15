@@ -1,0 +1,59 @@
+Date : 2022-05-01 19:18:29
+Directory : c:\Users\Gintautas\Desktop\greenhouse\src
+Total : 29 files,  2729 codes, 40 comments, 204 blanks, all 2973 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         26 |      2,671 |         40 |        194 |      2,905 |
+| CSS        |          2 |         57 |          0 |         10 |         67 |
+| XML        |          1 |          1 |          0 |          0 |          1 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         29 |      2,729 |         40 |        204 |      2,973 |
+| components                                                                  |          3 |        274 |          0 |         20 |        294 |
+| components\Routes                                                           |          2 |         22 |          0 |          6 |         28 |
+| layouts                                                                     |          1 |         30 |          0 |          2 |         32 |
+| pages                                                                       |         13 |      1,948 |         12 |        127 |      2,087 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                    | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Gintautas\Desktop\greenhouse\src\App.css                           | CSS        |         33 |          0 |          6 |         39 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\App.js                            | JavaScript |         23 |          0 |          3 |         26 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\App.test.js                       | JavaScript |          7 |          0 |          2 |          9 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\components\Header.js              | JavaScript |        252 |          0 |         14 |        266 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\components\Routes\AdminRoute.js   | JavaScript |         11 |          0 |          3 |         14 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\components\Routes\PrivateRoute.js | JavaScript |         11 |          0 |          3 |         14 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\config.js                         | JavaScript |         24 |          0 |          4 |         28 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\constants.js                      | JavaScript |          4 |          0 |          1 |          5 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\index.css                         | CSS        |         24 |          0 |          4 |         28 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\index.js                          | JavaScript |        104 |          0 |          3 |        107 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\interceptors.js                   | JavaScript |         26 |          6 |          4 |         36 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\layouts\MainLayout.js             | JavaScript |         30 |          0 |          2 |         32 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\logo.svg                          | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\BackDrop.js                 | JavaScript |         16 |          0 |          2 |         18 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\EditUser.js                 | JavaScript |        192 |          0 |         12 |        204 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\GreenhouseControl.js        | JavaScript |        503 |          0 |         23 |        526 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\HumidityDay.js              | JavaScript |        116 |          2 |          9 |        127 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\HumidityMonth.js            | JavaScript |        116 |          2 |         10 |        128 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Login.js                    | JavaScript |        133 |          0 |          6 |        139 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Microcontroller.js          | JavaScript |        148 |          0 |         12 |        160 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Register.js                 | JavaScript |        139 |          0 |          7 |        146 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\SoilHumidityDay.js          | JavaScript |        119 |          2 |          9 |        130 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\SoilHumidityMonth.js        | JavaScript |        116 |          2 |         10 |        128 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\TemperatureDay.js           | JavaScript |        120 |          2 |          9 |        131 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\TemperatureMonth.js         | JavaScript |        120 |          2 |         10 |        132 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Users.js                    | JavaScript |        110 |          0 |          8 |        118 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\requests.js                       | JavaScript |        216 |         18 |         25 |        259 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\setupTests.js                     | JavaScript |          1 |          4 |          1 |          6 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\utils.js                          | JavaScript |         14 |          0 |          2 |         16 |
+| Total                                                                       |            |      2,729 |         40 |        204 |      2,973 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+

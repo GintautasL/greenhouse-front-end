@@ -1,0 +1,56 @@
+Date : 2022-05-10 00:03:28
+Directory : c:\Users\Gintautas\Desktop\greenhouse\src
+Total : 29 files,  755 codes, -14 comments, 71 blanks, all 812 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         29 |        755 |        -14 |         71 |        812 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         29 |        755 |        -14 |         71 |        812 |
+| components                                                                |          1 |          8 |          0 |          2 |         10 |
+| pages                                                                     |         23 |        775 |        -11 |         66 |        830 |
+| test_utils                                                                |          1 |          2 |          0 |          2 |          4 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                  | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Gintautas\Desktop\greenhouse\src\components\Header.test.js       | JavaScript |          8 |          0 |          2 |         10 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\config.js                       | JavaScript |         -2 |          0 |          0 |         -2 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\index.js                        | JavaScript |         -5 |          0 |          3 |         -2 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\BackDrop.test.js          | JavaScript |          8 |          0 |          2 |         10 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\EditUser.js               | JavaScript |       -192 |          0 |        -12 |       -204 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\GreenhouseControl.js      | JavaScript |         38 |          0 |         -1 |         37 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\GreenhouseControl.test.js | JavaScript |        568 |          1 |         46 |        615 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\HumidityDay.js            | JavaScript |        -19 |         -2 |         -1 |        -22 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\HumidityDay.test.js       | JavaScript |         75 |          0 |          4 |         79 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\HumidityMonth.js          | JavaScript |        -19 |         -2 |         -1 |        -22 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\HumidityMonth.test.js     | JavaScript |         73 |          0 |          5 |         78 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Login.test.js             | JavaScript |          8 |          0 |          2 |         10 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Microcontroller.js        | JavaScript |         -7 |          0 |          0 |         -7 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Microcontroller.test.js   | JavaScript |          8 |          0 |          2 |         10 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Register.js               | JavaScript |         -3 |          0 |          0 |         -3 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Register.test.js          | JavaScript |          8 |          0 |          2 |         10 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\SoilHumidityDay.js        | JavaScript |        -19 |         -2 |         -1 |        -22 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\SoilHumidityDay.test.js   | JavaScript |         75 |          0 |          5 |         80 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\SoilHumidityMonth.js      | JavaScript |        -14 |         -2 |         -1 |        -17 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\SoilHumidityMonth.test.js | JavaScript |         76 |          0 |          5 |         81 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\TemperatureDay.js         | JavaScript |        -19 |         -2 |         -1 |        -22 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\TemperatureDay.test.js    | JavaScript |         75 |          0 |          5 |         80 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\TemperatureMonth.js       | JavaScript |        -18 |         -2 |         -1 |        -21 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\TemperatureMonth.test.js  | JavaScript |         73 |          0 |          5 |         78 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Users.js                  | JavaScript |         -8 |          0 |          0 |         -8 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\pages\Users.test.js             | JavaScript |          8 |          0 |          2 |         10 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\requests.js                     | JavaScript |        -27 |         -3 |         -3 |        -33 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\setupTests.js                   | JavaScript |          4 |          0 |          1 |          5 |
+| c:\Users\Gintautas\Desktop\greenhouse\src\test_utils\theme.js             | JavaScript |          2 |          0 |          2 |          4 |
+| Total                                                                     |            |        755 |        -14 |         71 |        812 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
